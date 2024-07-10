@@ -1,5 +1,6 @@
-## Gradient-Based Learning Applied to Document Recognition
-+ 방학 동안 진행한 논문 리뷰와 코드 정리를 위한 저장소
+## 방학 동안 진행한 논문 리뷰와 코드 정리를 위한 저장소
++ 전체 리뷰는 notion에 작성할 예정
++ Gradient-Based Learning Applied to Document Recognition
 
 
 
