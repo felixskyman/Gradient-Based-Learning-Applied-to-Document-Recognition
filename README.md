@@ -2,6 +2,8 @@
 + 전체 리뷰는 notion에 작성할 예정
 + Gradient-Based Learning Applied to Document Recognition
 
++ GoogleNet(Going deeper with convolutions)
+https://marsh-tarn-ded.notion.site/GoogLeNet-Going-deeper-with-convolutions-4002a2f3eb2b470897b5c7b227add54a?pvs=4
 
 
 
